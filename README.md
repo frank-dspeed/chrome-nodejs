@@ -1,3 +1,7 @@
+# !!Warning 
+This is only for development and expirenced developers it offers no security nothing
+End Users will use open-pwa which adds a Permission Layer on top of this.
+
 # chrome-nodejs
 Installs ipcConnection as Chrome Extension to use System Wide Installed Chrome and NodeJS to create Apps without the need to bundle chrome and nodejs - a drop in Replacement for Electron and NWJS apps 
 
